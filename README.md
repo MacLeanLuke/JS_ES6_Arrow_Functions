@@ -1,2 +1,2 @@
-# JS_ES6_Arrow_Functions
+# _ES6
 Created with CodeSandbox
